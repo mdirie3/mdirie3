@@ -75,7 +75,7 @@
 - Configured security groups and networking rules
 - Automated full infrastructure deployment
 
-🔗 Repo:
+🔗 Repo: 
 
 ---
 
@@ -87,34 +87,6 @@
 - Created Dockerfile for application
 - Built and ran container locally and on EC2
 - Managed ports, networking, and logs
-
-🔗 Repo: 
-
----
-
-### 3. CI/CD Pipeline (GitHub Actions)
-📌 Automated deployment pipeline from GitHub to AWS.
-
-**Tech:** GitHub Actions, Docker, AWS EC2
-
-- Built CI/CD workflow pipeline
-- Automated build and deployment process
-- Reduced manual deployment steps
-
-🔗 Repo: 
-
----
-
-### 4. Kubernetes Deployment (Optional)
-📌 Deployed a containerized app using Kubernetes.
-
-**Tech:** Kubernetes, Docker
-
-- Created deployment and service YAML files
-- Exposed application using service/ingress
-- Managed scaling and pods
-
-🔗 Repo: 
 
 ---
 
