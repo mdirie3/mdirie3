@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### ☁️ Cloud
 - AWS (EC2, IAM, S3, VPC, EBS, Route 53, CloudFront, ALB, Auto Scaling, CloudWatch)
